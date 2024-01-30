@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 
-double calculateAverage(int num, ...)
+double cal_Average(int num, ...)
 {
 	va_list args;
 	va_start(args, num);
