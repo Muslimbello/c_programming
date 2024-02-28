@@ -1,0 +1,3 @@
+sudo install valgrind
+
+valgrind program_name
